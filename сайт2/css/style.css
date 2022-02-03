@@ -1,0 +1,138 @@
+	body{
+			margin: 0px;
+			background-image: url("back.jpg");
+			background-repeat: no-repeat;
+			background-color: black;
+			background-attachment: fixed;
+			background-size:cover;
+			background-position: center;
+		}
+		#header{
+		 
+		  width: 80%;
+	      height: 50px;		
+		  background-color:black;
+		  max-width: 1280px; 
+			margin-left: 10%;
+			min-width: 800px;
+			box-shadow: 0 0 50px black; 
+		}
+	
+		#footer{
+			margin: auto;
+		  width: 80%;
+	      height: 60px;		
+		 
+			
+		  padding-top: 50px;
+		 max-width: 1280px; 
+			min-width: 800px;
+			color: white;
+		}
+		
+		
+	
+		
+		#sidebar{
+			width: 20%;
+			height: 100%;
+			
+			background-color: blanchedalmond;
+			float: left;
+		}
+		#wraper{
+			margin-top: 100px;
+			
+		}
+		#main{
+			
+			margin: auto;
+			width: 80%;
+			height: 100%;
+			background-color:whitesmoke;
+			max-width: 1280px; 
+			min-width: 800px;
+			box-shadow: 0 0 50px black; 
+			border-style: solid;
+			border-color:black;
+			border-radius: 20px;
+		}
+		
+		#logo{
+		width: 200px;
+			height: 40px;
+			margin: 5px 0 0 20px;
+			float: left;
+		}
+		
+		
+		
+		.post{
+			background-color:azure;
+			width: 80%;
+			height: 300px;
+			margin: auto;
+			margin-top: 40px;
+			
+			
+			
+			border-radius: 20px;
+			border-style: solid;
+			border-color:dimgrey;
+			
+			box-shadow: 0 0 10px black;
+			min-height: 50px;
+			min-height: 400px;
+		}
+		
+		.postimg{
+			width: 30%;
+			float: left;
+			height: 100%;
+			margin-right: 20px;
+			border-radius: 10px;
+			min-width: 300px;
+		}
+		
+		.postimg2{
+			width: 30%;
+			float: right;
+			height: 100%;
+			margin-left: 20px;
+			border-radius: 10px;
+			min-width: 300px;
+		}
+		
+		.post1{
+			margin-left: 20px;
+			margin-right: 20px;
+			font-family:monospace;
+			font-size: 1.4em;
+		}
+		
+		/* Navbar */
+
+.navbar-brand {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.nav-link, .dropdown-item {
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+nav li {
+  padding: 0 18px;
+}
+
+nav li.active, nav li.active:before {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+
+
+
+	
